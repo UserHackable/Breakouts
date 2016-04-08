@@ -1,6 +1,22 @@
 ## Breakouts
 
 A bunch of random breakout boards
+## 4ButtonBreakout 
+
+
+### Board dimensions
+
+* (165000, 125000) original units
+* (1.6500, 1.2500) inches
+* (41.9100, 31.7500) mm
+
+
+
+| Front | Back |
+| --- | --- |
+| ![Front](4ButtonBreakout.png) | ![Back](4ButtonBreakout_back.png) |
+
+
 ## 5MMHexaStellaBreakout 
 
 
@@ -111,6 +127,22 @@ A bunch of random breakout boards
 | Front | Back |
 | --- | --- |
 | ![Front](LedBreakout.png) | ![Back](LedBreakout_back.png) |
+
+
+## MinimalDigitalAmp 
+
+
+### Board dimensions
+
+* (100000, 69994) original units
+* (1.0000, 0.6999) inches
+* (25.4000, 17.7785) mm
+
+
+
+| Front | Back |
+| --- | --- |
+| ![Front](MinimalDigitalAmp.png) | ![Back](MinimalDigitalAmp_back.png) |
 
 
 ## Oval_RGB_Breakout 
