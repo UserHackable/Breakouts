@@ -10,6 +10,7 @@ A bunch of random breakout boards
 * (1.6500, 1.2500) inches
 * (41.9100, 31.7500) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -26,6 +27,7 @@ A bunch of random breakout boards
 * (1.0000, 1.0000) inches
 * (25.4000, 25.4000) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -42,6 +44,7 @@ A bunch of random breakout boards
 * (0.9000, 0.6624) inches
 * (22.8600, 16.8262) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -58,6 +61,7 @@ A bunch of random breakout boards
 * (1.3000, 0.9750) inches
 * (33.0200, 24.7650) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -74,6 +78,7 @@ A bunch of random breakout boards
 * (3.5000, 0.4000) inches
 * (88.9000, 10.1600) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -90,6 +95,7 @@ A bunch of random breakout boards
 * (1.1000, 1.1000) inches
 * (27.9400, 27.9400) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -106,6 +112,7 @@ A bunch of random breakout boards
 * (1.1000, 1.1000) inches
 * (27.9400, 27.9400) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -122,6 +129,7 @@ A bunch of random breakout boards
 * (1.4000, 0.9999) inches
 * (35.5603, 25.3982) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -138,6 +146,7 @@ A bunch of random breakout boards
 * (1.1000, 1.2500) inches
 * (27.9400, 31.7500) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -154,6 +163,7 @@ A bunch of random breakout boards
 * (1.5000, 0.4500) inches
 * (38.1000, 11.4300) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -170,6 +180,7 @@ A bunch of random breakout boards
 * (0.8000, 0.5000) inches
 * (20.3200, 12.7000) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -186,6 +197,7 @@ A bunch of random breakout boards
 * (0.8000, 0.5000) inches
 * (20.3200, 12.7000) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -202,6 +214,7 @@ A bunch of random breakout boards
 * (1.0000, 0.6999) inches
 * (25.4000, 17.7785) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -218,6 +231,7 @@ A bunch of random breakout boards
 * (0.6500, 0.6000) inches
 * (16.5100, 15.2400) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -234,6 +248,7 @@ A bunch of random breakout boards
 * (0.8000, 0.5000) inches
 * (20.3200, 12.7000) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -250,6 +265,7 @@ A bunch of random breakout boards
 * (0.6000, 0.6000) inches
 * (15.2400, 15.2400) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -266,6 +282,7 @@ A bunch of random breakout boards
 * (0.6000, 0.6499) inches
 * (15.2400, 16.5082) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -282,6 +299,7 @@ A bunch of random breakout boards
 * (0.9995, 0.4746) inches
 * (25.3876, 12.0551) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -298,6 +316,7 @@ A bunch of random breakout boards
 * (0.7000, 0.5000) inches
 * (17.7800, 12.7000) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
