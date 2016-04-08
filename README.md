@@ -10,7 +10,7 @@ A bunch of random breakout boards
 * (1.6500, 1.2500) inches
 * (41.9100, 31.7500) mm
 
-[gerbers](4ButtonBreakout_gerber.zip)
+[gerbers](4ButtonBreakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -27,7 +27,7 @@ A bunch of random breakout boards
 * (1.0000, 1.0000) inches
 * (25.4000, 25.4000) mm
 
-[gerbers](5MMHexaStellaBreakout_gerber.zip)
+[gerbers](5MMHexaStellaBreakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -44,7 +44,7 @@ A bunch of random breakout boards
 * (0.9000, 0.6624) inches
 * (22.8600, 16.8262) mm
 
-[gerbers](5MMTetraStellaBreakout_gerber.zip)
+[gerbers](5MMTetraStellaBreakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -61,7 +61,7 @@ A bunch of random breakout boards
 * (1.3000, 0.9750) inches
 * (33.0200, 24.7650) mm
 
-[gerbers](CharlieBreakout_gerber.zip)
+[gerbers](CharlieBreakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -78,7 +78,7 @@ A bunch of random breakout boards
 * (3.5000, 0.4000) inches
 * (88.9000, 10.1600) mm
 
-[gerbers](CharlieplexedLarsonScannerWandBreakout_gerber.zip)
+[gerbers](CharlieplexedLarsonScannerWandBreakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -95,7 +95,7 @@ A bunch of random breakout boards
 * (1.1000, 1.1000) inches
 * (27.9400, 27.9400) mm
 
-[gerbers](CharlieplexedPairReactorBreakout_gerber.zip)
+[gerbers](CharlieplexedPairReactorBreakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -112,7 +112,7 @@ A bunch of random breakout boards
 * (1.1000, 1.1000) inches
 * (27.9400, 27.9400) mm
 
-[gerbers](CharlieReactorBreakout_gerber.zip)
+[gerbers](CharlieReactorBreakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -129,7 +129,7 @@ A bunch of random breakout boards
 * (1.4000, 0.9999) inches
 * (35.5603, 25.3982) mm
 
-[gerbers](FiveToggleBreakout_gerber.zip)
+[gerbers](FiveToggleBreakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -146,7 +146,7 @@ A bunch of random breakout boards
 * (1.1000, 1.2500) inches
 * (27.9400, 31.7500) mm
 
-[gerbers](Joystick_gerber.zip)
+[gerbers](Joystick_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -163,7 +163,7 @@ A bunch of random breakout boards
 * (1.5000, 0.4500) inches
 * (38.1000, 11.4300) mm
 
-[gerbers](Led_Bar_gerber.zip)
+[gerbers](Led_Bar_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -180,7 +180,7 @@ A bunch of random breakout boards
 * (0.8000, 0.5000) inches
 * (20.3200, 12.7000) mm
 
-[gerbers](LedBreakout2_gerber.zip)
+[gerbers](LedBreakout2_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -197,7 +197,7 @@ A bunch of random breakout boards
 * (0.8000, 0.5000) inches
 * (20.3200, 12.7000) mm
 
-[gerbers](LedBreakout_gerber.zip)
+[gerbers](LedBreakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -214,7 +214,7 @@ A bunch of random breakout boards
 * (1.0000, 0.6999) inches
 * (25.4000, 17.7785) mm
 
-[gerbers](MinimalDigitalAmp_gerber.zip)
+[gerbers](MinimalDigitalAmp_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -231,7 +231,7 @@ A bunch of random breakout boards
 * (0.6500, 0.6000) inches
 * (16.5100, 15.2400) mm
 
-[gerbers](Oval_RGB_Breakout_gerber.zip)
+[gerbers](Oval_RGB_Breakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -248,7 +248,7 @@ A bunch of random breakout boards
 * (0.8000, 0.5000) inches
 * (20.3200, 12.7000) mm
 
-[gerbers](RGB2Breakout_gerber.zip)
+[gerbers](RGB2Breakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -265,7 +265,7 @@ A bunch of random breakout boards
 * (0.6000, 0.6000) inches
 * (15.2400, 15.2400) mm
 
-[gerbers](RGBBreakout_gerber.zip)
+[gerbers](RGBBreakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -282,7 +282,7 @@ A bunch of random breakout boards
 * (0.6000, 0.6499) inches
 * (15.2400, 16.5082) mm
 
-[gerbers](SingleToggleBreakout_gerber.zip)
+[gerbers](SingleToggleBreakout_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -299,7 +299,7 @@ A bunch of random breakout boards
 * (0.9995, 0.4746) inches
 * (25.3876, 12.0551) mm
 
-[gerbers](UsbA_gerber.zip)
+[gerbers](UsbA_gerber.zip?raw=true)
 
 
 | Front | Back |
@@ -316,7 +316,7 @@ A bunch of random breakout boards
 * (0.7000, 0.5000) inches
 * (17.7800, 12.7000) mm
 
-[gerbers](USBMiniBPower_gerber.zip)
+[gerbers](USBMiniBPower_gerber.zip?raw=true)
 
 
 | Front | Back |
