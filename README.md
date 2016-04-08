@@ -97,6 +97,22 @@ A bunch of random breakout boards
 | ![Front](FiveToggleBreakout.png) | ![Back](FiveToggleBreakout_back.png) |
 
 
+## Led_Bar 
+
+
+### Board dimensions
+
+* (150000, 45000) original units
+* (1.5000, 0.4500) inches
+* (38.1000, 11.4300) mm
+
+
+
+| Front | Back |
+| --- | --- |
+| ![Front](Led_Bar.png) | ![Back](Led_Bar_back.png) |
+
+
 ## LedBreakout2 
 
 
