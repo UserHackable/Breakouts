@@ -109,7 +109,7 @@ README.md: Intro.md $(mds)
 %.md: %.png %_back.png %.GTL
 	echo "## $* \n\n" >  $@
 	gerber_board_size $*.GTL >> $@
-	echo "[gerbers](%*_gerber.zip)" >> $@
+	echo "[gerbers]($*_gerber.zip)" >> $@
 	echo "\n\n| Front | Back |\n| --- | --- |\n| ![Front]($*.png) | ![Back]($*_back.png) |\n\n" >>  $@
 
 .gitignore:
