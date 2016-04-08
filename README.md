@@ -35,23 +35,6 @@ A bunch of random breakout boards
 | ![Front](5MMHexaStellaBreakout.png) | ![Back](5MMHexaStellaBreakout_back.png) |
 
 
-## 5MMTetraStellaBreakout 
-
-
-### Board dimensions
-
-* (90000, 66245) original units
-* (0.9000, 0.6624) inches
-* (22.8600, 16.8262) mm
-
-[gerbers](5MMTetraStellaBreakout_gerber.zip?raw=true)
-
-
-| Front | Back |
-| --- | --- |
-| ![Front](5MMTetraStellaBreakout.png) | ![Back](5MMTetraStellaBreakout_back.png) |
-
-
 ## CharlieBreakout 
 
 
@@ -171,40 +154,6 @@ A bunch of random breakout boards
 | ![Front](Led_Bar.png) | ![Back](Led_Bar_back.png) |
 
 
-## LedBreakout2 
-
-
-### Board dimensions
-
-* (80000, 50000) original units
-* (0.8000, 0.5000) inches
-* (20.3200, 12.7000) mm
-
-[gerbers](LedBreakout2_gerber.zip?raw=true)
-
-
-| Front | Back |
-| --- | --- |
-| ![Front](LedBreakout2.png) | ![Back](LedBreakout2_back.png) |
-
-
-## LedBreakout 
-
-
-### Board dimensions
-
-* (80000, 50000) original units
-* (0.8000, 0.5000) inches
-* (20.3200, 12.7000) mm
-
-[gerbers](LedBreakout_gerber.zip?raw=true)
-
-
-| Front | Back |
-| --- | --- |
-| ![Front](LedBreakout.png) | ![Back](LedBreakout_back.png) |
-
-
 ## MinimalDigitalAmp 
 
 
@@ -220,57 +169,6 @@ A bunch of random breakout boards
 | Front | Back |
 | --- | --- |
 | ![Front](MinimalDigitalAmp.png) | ![Back](MinimalDigitalAmp_back.png) |
-
-
-## Oval_RGB_Breakout 
-
-
-### Board dimensions
-
-* (65000, 60000) original units
-* (0.6500, 0.6000) inches
-* (16.5100, 15.2400) mm
-
-[gerbers](Oval_RGB_Breakout_gerber.zip?raw=true)
-
-
-| Front | Back |
-| --- | --- |
-| ![Front](Oval_RGB_Breakout.png) | ![Back](Oval_RGB_Breakout_back.png) |
-
-
-## RGB2Breakout 
-
-
-### Board dimensions
-
-* (80000, 50000) original units
-* (0.8000, 0.5000) inches
-* (20.3200, 12.7000) mm
-
-[gerbers](RGB2Breakout_gerber.zip?raw=true)
-
-
-| Front | Back |
-| --- | --- |
-| ![Front](RGB2Breakout.png) | ![Back](RGB2Breakout_back.png) |
-
-
-## RGBBreakout 
-
-
-### Board dimensions
-
-* (60000, 60000) original units
-* (0.6000, 0.6000) inches
-* (15.2400, 15.2400) mm
-
-[gerbers](RGBBreakout_gerber.zip?raw=true)
-
-
-| Front | Back |
-| --- | --- |
-| ![Front](RGBBreakout.png) | ![Back](RGBBreakout_back.png) |
 
 
 ## SingleToggleBreakout 
