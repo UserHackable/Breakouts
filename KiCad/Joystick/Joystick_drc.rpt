@@ -1,0 +1,65 @@
+** Drc report for Joystick.kicad_pcb **
+** Created on 2026-07-19T19:26:34 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 13 DRC violations **
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(7.5438 mm, -31.0388 mm): Reference field of JP1
+    @(8.8900 mm, -31.1150 mm): PCB text 'GND' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(21.5900 mm, -19.6850 mm): Segment of U1 on F.Silkscreen
+    @(21.5900 mm, -19.3675 mm): PTH pad MOUNT4 [<no net>] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(21.5900 mm, -16.7640 mm): Segment of U1 on F.Silkscreen
+    @(21.5900 mm, -19.3675 mm): PTH pad MOUNT4 [<no net>] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(6.3500 mm, -7.8740 mm): Segment of U1 on F.Silkscreen
+    @(6.3500 mm, -6.0325 mm): PTH pad MOUNT2 [<no net>] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(6.3500 mm, -17.5260 mm): Segment of U1 on F.Silkscreen
+    @(6.3500 mm, -19.3675 mm): PTH pad MOUNT1 [<no net>] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(8.3820 mm, -19.6850 mm): Segment of U1 on F.Silkscreen
+    @(6.3500 mm, -19.3675 mm): PTH pad MOUNT1 [<no net>] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(21.5900 mm, -8.6360 mm): Segment of U1 on F.Silkscreen
+    @(21.5900 mm, -6.0325 mm): PTH pad MOUNT3 [<no net>] of U1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5182 mm)
+    Rule: board setup constraints silk text height; warning
+    @(8.8900 mm, -31.1150 mm): PCB text 'GND' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5182 mm)
+    Rule: board setup constraints silk text height; warning
+    @(11.4300 mm, -31.1150 mm): PCB text 'VCC' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5182 mm)
+    Rule: board setup constraints silk text height; warning
+    @(13.9700 mm, -31.1150 mm): PCB text 'B' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5182 mm)
+    Rule: board setup constraints silk text height; warning
+    @(16.5100 mm, -31.1150 mm): PCB text 'H' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5182 mm)
+    Rule: board setup constraints silk text height; warning
+    @(19.0500 mm, -31.1150 mm): PCB text 'V' on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(8.8900 mm, -29.2100 mm): Arc on Edge.Cuts
+    @(7.5438 mm, -31.0388 mm): Reference field of JP1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
