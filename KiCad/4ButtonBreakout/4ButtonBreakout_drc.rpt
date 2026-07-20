@@ -1,0 +1,98 @@
+** Drc report for 4ButtonBreakout.kicad_pcb **
+** Created on 2026-07-19T19:26:45 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 16 DRC violations **
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(8.9898 mm, -28.8600 mm): Segment of S4 on F.Silkscreen
+    @(11.4700 mm, -29.1100 mm): PTH pad 2 [N$4] of S4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(8.9898 mm, -28.8600 mm): Segment of S4 on F.Silkscreen
+    @(16.4700 mm, -29.1100 mm): PTH pad 4 [GND] of S4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(21.9400 mm, -17.8798 mm): Segment of S3 on F.Silkscreen
+    @(21.6900 mm, -20.3600 mm): PTH pad 2 [N$3] of S3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(21.9400 mm, -17.8798 mm): Segment of S3 on F.Silkscreen
+    @(21.6900 mm, -25.3600 mm): PTH pad 4 [GND] of S3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.9700 mm, -3.9098 mm): Segment of S1 on F.Silkscreen
+    @(7.7200 mm, -6.3900 mm): PTH pad 2 [N$1] of S1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.9700 mm, -3.9098 mm): Segment of S1 on F.Silkscreen
+    @(7.7200 mm, -11.3900 mm): PTH pad 4 [GND] of S1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(19.9700 mm, -13.8850 mm): Segment of S1 on F.Silkscreen
+    @(20.2200 mm, -6.3900 mm): PTH pad 1 [<no net>] of S1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(19.9700 mm, -13.8850 mm): Segment of S1 on F.Silkscreen
+    @(20.2200 mm, -11.3900 mm): PTH pad 3 [<no net>] of S1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(18.9650 mm, -16.8600 mm): Segment of S4 on F.Silkscreen
+    @(11.4700 mm, -16.6100 mm): PTH pad 1 [<no net>] of S4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(18.9650 mm, -16.8600 mm): Segment of S4 on F.Silkscreen
+    @(16.4700 mm, -16.6100 mm): PTH pad 3 [<no net>] of S4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(32.9350 mm, -2.8900 mm): Segment of S2 on F.Silkscreen
+    @(25.4400 mm, -2.6400 mm): PTH pad 1 [<no net>] of S2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(32.9350 mm, -2.8900 mm): Segment of S2 on F.Silkscreen
+    @(30.4400 mm, -2.6400 mm): PTH pad 3 [<no net>] of S2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(22.9598 mm, -14.8900 mm): Segment of S2 on F.Silkscreen
+    @(25.4400 mm, -15.1400 mm): PTH pad 2 [N$2] of S2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(22.9598 mm, -14.8900 mm): Segment of S2 on F.Silkscreen
+    @(30.4400 mm, -15.1400 mm): PTH pad 4 [GND] of S2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(33.9400 mm, -27.8550 mm): Segment of S3 on F.Silkscreen
+    @(34.1900 mm, -20.3600 mm): PTH pad 1 [<no net>] of S3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(33.9400 mm, -27.8550 mm): Segment of S3 on F.Silkscreen
+    @(34.1900 mm, -25.3600 mm): PTH pad 3 [<no net>] of S3
+
+** Found 4 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(3.8100 mm, -20.9550 mm): PTH pad 1 [GND] of JP1
+    @(7.7200 mm, -11.3900 mm): PTH pad 4 [GND] of S1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(16.4700 mm, -29.1100 mm): PTH pad 4 [GND] of S4
+    @(3.8100 mm, -20.9550 mm): PTH pad 1 [GND] of JP1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(21.6900 mm, -25.3600 mm): PTH pad 4 [GND] of S3
+    @(16.4700 mm, -29.1100 mm): PTH pad 4 [GND] of S4
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(30.4400 mm, -15.1400 mm): PTH pad 4 [GND] of S2
+    @(21.6900 mm, -25.3600 mm): PTH pad 4 [GND] of S3
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

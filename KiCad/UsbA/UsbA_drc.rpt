@@ -1,0 +1,78 @@
+** Drc report for UsbA.kicad_pcb **
+** Created on 2026-07-19T19:26:55 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 18 DRC violations **
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.9700 mm, -8.5725 mm): Segment of R1 on F.Silkscreen
+    @(13.9700 mm, -9.8425 mm): PTH pad P$1 [N$1] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(13.9700 mm, -3.4925 mm): Segment of R1 on F.Silkscreen
+    @(13.9700 mm, -2.2225 mm): PTH pad P$2 [5V] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(9.8425 mm, -8.5725 mm): Segment of JP1 on F.Silkscreen
+    @(10.4775 mm, -9.8425 mm): PTH pad 1 [GND] of JP1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(11.7475 mm, -10.4775 mm): Segment of JP1 on F.Silkscreen
+    @(10.4775 mm, -9.8425 mm): PTH pad 1 [GND] of JP1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(11.7475 mm, -9.2075 mm): Segment of JP1 on F.Silkscreen
+    @(10.4775 mm, -9.8425 mm): PTH pad 1 [GND] of JP1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(9.8425 mm, -11.1125 mm): Segment of JP1 on F.Silkscreen
+    @(10.4775 mm, -9.8425 mm): PTH pad 1 [GND] of JP1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5182 mm)
+    Rule: board setup constraints silk text height; warning
+    @(18.0975 mm, -1.2700 mm): PCB text 'Enterprises' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(16.8275 mm, -6.0325 mm): PCB text 'UsbA' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(17.7800 mm, -11.1125 mm): PCB text 'Barbary' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.3825 mm, -9.8425 mm): PCB text 'GND' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.3825 mm, -7.3025 mm): PCB text 'D+' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.3825 mm, -5.0800 mm): PCB text 'D-' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.3825 mm, -2.2225 mm): PCB text '5V' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.3825 mm, -9.8425 mm): PCB text 'GND' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.3825 mm, -7.3025 mm): PCB text 'D+' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.3825 mm, -5.0800 mm): PCB text 'D-' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.3825 mm, -2.2225 mm): PCB text '5V' on B.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6665 mm)
+    Rule: board setup constraints silk text height; warning
+    @(0.0000 mm, -12.3825 mm): Footprint text of CN1 (CN1)
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

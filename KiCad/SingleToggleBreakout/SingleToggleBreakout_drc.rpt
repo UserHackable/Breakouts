@@ -1,0 +1,22 @@
+** Drc report for SingleToggleBreakout.kicad_pcb **
+** Created on 2026-07-19T19:26:52 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 1 DRC violations **
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(12.3983 mm, -16.5081 mm): Segment on Edge.Cuts
+    @(3.7338 mm, -15.7988 mm): Reference field of JP1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

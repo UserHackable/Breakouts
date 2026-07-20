@@ -1,0 +1,71 @@
+** Drc report for Led_Bar.kicad_pcb **
+** Created on 2026-07-19T19:26:49 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 14 DRC violations **
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(26.6700 mm, -2.5400 mm): Segment of R1 on F.Silkscreen
+    @(27.9400 mm, -2.5400 mm): PTH pad P$1 [N$2] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(15.2400 mm, -2.5400 mm): Arc of Q1 on F.Silkscreen
+    @(17.7800 mm, -2.5400 mm): PTH pad 1 [GND] of Q1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(21.5900 mm, -2.5400 mm): Segment of R1 on F.Silkscreen
+    @(20.3200 mm, -2.5400 mm): PTH pad P$2 [N$1] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(3.8100 mm, -2.5400 mm): Segment of R2 on F.Silkscreen
+    @(2.5400 mm, -2.5400 mm): PTH pad P$1 [N$12] of R2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(15.2400 mm, -2.5400 mm): Arc of Q1 on F.Silkscreen
+    @(12.7000 mm, -2.5400 mm): PTH pad 3 [N$3] of Q1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(8.8900 mm, -2.5400 mm): Segment of R2 on F.Silkscreen
+    @(10.1600 mm, -2.5400 mm): PTH pad P$2 [N$3] of R2
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5182 mm)
+    Rule: board setup constraints silk text height; warning
+    @(30.4800 mm, -0.9525 mm): PCB text 'IO' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5182 mm)
+    Rule: board setup constraints silk text height; warning
+    @(33.0200 mm, -0.9525 mm): PCB text 'V+' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5182 mm)
+    Rule: board setup constraints silk text height; warning
+    @(35.5600 mm, -0.9525 mm): PCB text 'GND' on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(2.6182 mm, 0.0000 mm): Segment on Edge.Cuts
+    @(15.2400 mm, -2.5400 mm): Arc of Q1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(2.6182 mm, 0.0000 mm): Segment on Edge.Cuts
+    @(15.2400 mm, -2.8575 mm): Arc of Q1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(2.6182 mm, 0.0000 mm): Segment on Edge.Cuts
+    @(15.2400 mm, -2.8575 mm): Arc of Q1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(2.6182 mm, 0.0000 mm): Segment on Edge.Cuts
+    @(15.2400 mm, -2.8575 mm): Arc of Q1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(2.6182 mm, 0.0000 mm): Segment on Edge.Cuts
+    @(15.2400 mm, -2.5400 mm): Arc of Q1 on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

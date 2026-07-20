@@ -1,0 +1,133 @@
+** Drc report for MinimalDigitalAmp.kicad_pcb **
+** Created on 2026-07-19T19:26:50 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 31 DRC violations **
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(1.2700 mm, -4.4450 mm): Segment of JP1 on F.Silkscreen
+    @(0.6350 mm, -5.0800 mm): PCB text '+' on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(16.5100 mm, -10.1600 mm): Segment of R1 on F.Silkscreen
+    @(17.7800 mm, -10.1600 mm): PTH pad P$2 [N$2] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(11.4300 mm, -10.1600 mm): Segment of R1 on F.Silkscreen
+    @(10.1600 mm, -10.1600 mm): PTH pad P$1 [N$5] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.6200 mm, -6.3500 mm): Reference field of NPN0
+    @(10.1600 mm, -7.6200 mm): PTH pad 1 [N$5] of NPN0
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(9.7145 mm, -9.2710 mm): Segment of NPN0 on F.Silkscreen
+    @(10.1600 mm, -10.1600 mm): PTH pad P$1 [N$5] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.6200 mm, -6.3500 mm): Reference field of NPN0
+    @(7.6200 mm, -7.6200 mm): PTH pad 2 [N$4] of NPN0
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.6200 mm, -7.6200 mm): Arc of NPN0 on F.Silkscreen
+    @(10.1600 mm, -7.6200 mm): PTH pad 1 [N$5] of NPN0
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.6200 mm, -7.6200 mm): Arc of NPN0 on F.Silkscreen
+    @(10.1600 mm, -10.1600 mm): PTH pad P$1 [N$5] of R1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.6200 mm, -1.2700 mm): Reference field of PNP0
+    @(10.1600 mm, -2.5400 mm): PTH pad 1 [N$5] of PNP0
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.6200 mm, -7.6200 mm): Arc of NPN0 on F.Silkscreen
+    @(5.0800 mm, -7.6200 mm): PTH pad 3 [VCC] of NPN0
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.6200 mm, -1.2700 mm): Reference field of PNP0
+    @(7.6200 mm, -2.5400 mm): PTH pad 2 [N$4] of PNP0
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.6200 mm, -2.5400 mm): Arc of PNP0 on F.Silkscreen
+    @(5.0800 mm, -2.5400 mm): PTH pad 3 [GND] of PNP0
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(7.6200 mm, -2.5400 mm): Arc of PNP0 on F.Silkscreen
+    @(10.1600 mm, -2.5400 mm): PTH pad 1 [N$5] of PNP0
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.7000 mm, -13.9700 mm): PCB text 'User Hackable
+Minimal Digital
+Amplifier' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(21.9075 mm, -9.2075 mm): PCB text 'OUT' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6909 mm)
+    Rule: board setup constraints silk text height; warning
+    @(0.6350 mm, -7.6200 mm): PCB text 'IN' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0610 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(7.6200 mm, -6.3500 mm): Reference field of NPN0
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5486 mm)
+    Rule: board setup constraints silk text height; warning
+    @(7.6200 mm, -6.3500 mm): Reference field of NPN0
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0561 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(12.7000 mm, -10.1600 mm): Reference field of R1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7567 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.7000 mm, -10.1600 mm): Reference field of R1
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0299 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(12.3825 mm, -5.0800 mm): Reference field of C1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7829 mm)
+    Rule: board setup constraints silk text height; warning
+    @(12.3825 mm, -5.0800 mm): Reference field of C1
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0610 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(7.6200 mm, -1.2700 mm): Reference field of PNP0
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5486 mm)
+    Rule: board setup constraints silk text height; warning
+    @(7.6200 mm, -1.2700 mm): Reference field of PNP0
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(25.4000 mm, -2.5400 mm): Segment on Edge.Cuts
+    @(24.7075 mm, -8.4250 mm): Segment of JP2 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(22.8600 mm, -2.5400 mm): Arc on Edge.Cuts
+    @(25.5075 mm, -1.4250 mm): Segment of JP2 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(2.5400 mm, 0.0000 mm): Segment on Edge.Cuts
+    @(7.6200 mm, -2.5400 mm): Arc of PNP0 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(2.5400 mm, 0.0000 mm): Segment on Edge.Cuts
+    @(7.6200 mm, -2.8575 mm): Arc of PNP0 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(2.5400 mm, 0.0000 mm): Segment on Edge.Cuts
+    @(7.6200 mm, -2.8575 mm): Arc of PNP0 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(2.5400 mm, 0.0000 mm): Segment on Edge.Cuts
+    @(7.6200 mm, -2.8575 mm): Arc of PNP0 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(2.5400 mm, 0.0000 mm): Segment on Edge.Cuts
+    @(7.6200 mm, -2.5400 mm): Arc of PNP0 on F.Silkscreen
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
